@@ -1,6 +1,6 @@
 # 💐 FNP (Ferns N Petals) Sales Analysis Dashboard
 
-This project presents an interactive **Sales Analysis Dashboard** built using **Power BI** to analyze revenue and order trends for **Ferns N Petals (FNP)** — a leading gifting and floral delivery platform in India.
+This project presents an interactive **Sales Analysis Dashboard** built using **Excel** to analyze revenue and order trends for **Ferns N Petals (FNP)** — a leading gifting and floral delivery platform in India.
 
 ## 📈 Objective
 
